@@ -5,8 +5,6 @@
 
 >## 1. Keras
 
--  **Lists, Sets, Tuples, Disctionaries.ipynb:** Python basic Concepts.
-
 - **CNN on MNIST databse.ipynb :**  CNN for handwritten digit classifier
 
 - **case Studies using Keras.ipynb :** Regressi models on Kaggle use cases
@@ -16,7 +14,7 @@
 - **Iris Classifier Using Keras.ipynb :** Iris Classifier using keras
  
   
-
+  
 >## 2. Tensorflow
 
   
